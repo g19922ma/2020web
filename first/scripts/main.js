@@ -10,10 +10,6 @@
       setUserName();
       }
       
-    document.querySelector('html').onclick=function(){
-      alert('痛っ！つつくのはやめて！');
-      }
-      
     let myImage=document.querySelector('img');
     
     myImage.onclick = function() {
